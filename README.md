@@ -9,4 +9,4 @@ Click on "Honk" in Car Control Section for a surprise!
 
 1. Language : Swift
 2. Framework : SwiftUI
-3. Pattern ; MVVM
+3. Pattern : MVVM
